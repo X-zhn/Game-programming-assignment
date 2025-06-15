@@ -1,8 +1,21 @@
-# 勇士传说
-一款2D横板动作游戏，单人使用Unity开发完成。
+# Twilight in Ethrea
+This is a 2D side-scrolling action game developed solo using Unity.
 
-玩家控制的角色能够进行3段攻击，以及滑铲、蹬墙跳等动作。
-包括三种敌人，分别是野猪、蜗牛和蜜蜂，敌人的AI使用有限状态机的方式实现。
+The player controls a character capable of performing a 3-hit combo attack, as well as actions such as sliding and wall-jumping.
+There are three types of enemies: a boar, a snail, and a bee. The enemy AI is implemented using a finite state machine.
 
-操作说明：
-a、d左右移动，s下蹲，空格键跳跃，j攻击，k滑铲，按住左shift键行走（默认奔跑），e交互。
+Controls:
+
+A / D – Move left / right
+
+S – Crouch
+
+Space – Jump
+
+J – Attack
+
+K – Slide
+
+Left Shift (Hold) – Walk (running is the default movement)
+
+E – Interact
