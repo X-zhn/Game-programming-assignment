@@ -1,0 +1,2908 @@
+fileFormatVersion: 2
+guid: 83335da342077a24aaea5bc8d9651ef3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Femalewarrior_Frame_0
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 242
+      width: 18
+      height: 33
+    spriteID: fe7a8b3f1a39c1548b625b44cb457df1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 242}
+  - name: Femalewarrior_Frame_1
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 242
+      width: 18
+      height: 33
+    spriteID: 81717dd6a939fc34da647bb874f8288e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 242}
+  - name: Femalewarrior_Frame_2
+    originalName: 
+    pivot: {x: 0.75, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 192
+      width: 20
+      height: 33
+    spriteID: 6c07135c089e9ad41916416df003ea2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 192}
+  - name: Femalewarrior_Frame_3
+    originalName: 
+    pivot: {x: 0.7894737, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 242
+      width: 19
+      height: 33
+    spriteID: 39fc7c086684df14cb409108839c24c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 242}
+  - name: Femalewarrior_Frame_4
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 242
+      width: 18
+      height: 33
+    spriteID: 7a19350c42226694a8d6056c1aa92ea9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 242}
+  - name: Femalewarrior_Frame_5
+    originalName: 
+    pivot: {x: 0.7777778, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 242
+      width: 18
+      height: 33
+    spriteID: 057968b67df0f2b43b122e00679bf898
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 242}
+  - name: Femalewarrior_Frame_6
+    originalName: 
+    pivot: {x: 0.79999995, y: -0.31034485}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 237
+      y: 145
+      width: 25
+      height: 29
+    spriteID: 274fdb817d4175a44a8490b0757d80ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 237, y: 145}
+  - name: Femalewarrior_Frame_7
+    originalName: 
+    pivot: {x: 0.4166667, y: -0.42307693}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 58
+      y: 242
+      width: 24
+      height: 26
+    spriteID: b1db284a197ec98488ea7c201036eefe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 58, y: 242}
+  - name: Femalewarrior_Frame_8
+    originalName: 
+    pivot: {x: 0.2413793, y: -0.26923075}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 200
+      y: 145
+      width: 29
+      height: 26
+    spriteID: dea825a05a78b4148a7b00b098639d7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 200, y: 145}
+  - name: Femalewarrior_Frame_9
+    originalName: 
+    pivot: {x: 0.23076925, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 405
+      y: 145
+      width: 26
+      height: 27
+    spriteID: 35b1d2a1018679f47a329e4a044c2c12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 405, y: 145}
+  - name: Femalewarrior_Frame_10
+    originalName: 
+    pivot: {x: 0.27586207, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 161
+      y: 99
+      width: 29
+      height: 28
+    spriteID: 5e4cabd7ea212e24fa23491a353987c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 161, y: 99}
+  - name: Femalewarrior_Frame_11
+    originalName: 
+    pivot: {x: 0.35714287, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 309
+      y: 99
+      width: 28
+      height: 28
+    spriteID: b6597a0fbceb8b3488bd71eede9bcf4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 309, y: 99}
+  - name: Femalewarrior_Frame_12
+    originalName: 
+    pivot: {x: 0.7241379, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 99
+      width: 29
+      height: 28
+    spriteID: f2da4768b376ccf4ebb4bfeb5883e421
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 99}
+  - name: Femalewarrior_Frame_13
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 249
+      y: 242
+      width: 22
+      height: 27
+    spriteID: 3e9077d40602c70428bbc27da6373cbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 249, y: 242}
+  - name: Femalewarrior_Frame_14
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 192
+      width: 27
+      height: 42
+    spriteID: dc2c8123c6bec444094216d88901de51
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 192}
+  - name: Femalewarrior_Frame_15
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.1081081}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 54
+      width: 30
+      height: 37
+    spriteID: 3734cb3bdd19c27438d79e8f1a96a09f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 54}
+  - name: Femalewarrior_Frame_16
+    originalName: 
+    pivot: {x: 0.3214286, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 99
+      width: 28
+      height: 32
+    spriteID: f9ff51e2e282a5d459d5763843f9d1bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 99}
+  - name: Femalewarrior_Frame_17
+    originalName: 
+    pivot: {x: 0.4137931, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 416
+      y: 54
+      width: 29
+      height: 32
+    spriteID: d4adeeb090d2e89479e2e2a4ceb72be0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 416, y: 54}
+  - name: Femalewarrior_Frame_18
+    originalName: 
+    pivot: {x: 0.5185185, y: -0.15625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 99
+      width: 27
+      height: 32
+    spriteID: 7ae7db8a960da2d45bfa89718ae8c436
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 99}
+  - name: Femalewarrior_Frame_19
+    originalName: 
+    pivot: {x: 0.39583334, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 4
+      width: 48
+      height: 40
+    spriteID: 9801a109be2963a45a14fbc08f3f976a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 4}
+  - name: Femalewarrior_Frame_20
+    originalName: 
+    pivot: {x: 0.39999998, y: -0.12820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 187
+      y: 4
+      width: 50
+      height: 39
+    spriteID: c65a6a8132c30e143badddc242055c09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 187, y: 4}
+  - name: Femalewarrior_Frame_21
+    originalName: 
+    pivot: {x: 0.4, y: -0.12820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 4
+      width: 40
+      height: 39
+    spriteID: a27c2f469a35b944191492c12d119642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 465, y: 4}
+  - name: Femalewarrior_Frame_22
+    originalName: 
+    pivot: {x: 0.39130434, y: -0.1724138}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 140
+      y: 192
+      width: 23
+      height: 29
+    spriteID: ce08d720eef33d8418324e71aa6b801d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 140, y: 192}
+  - name: Femalewarrior_Frame_23
+    originalName: 
+    pivot: {x: 0.5090909, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 55
+      height: 42
+    spriteID: 69a6a99eb226a304ba14bd09717f9734
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Femalewarrior_Frame_24
+    originalName: 
+    pivot: {x: 0.5686275, y: -0.095238104}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 67
+      y: 4
+      width: 51
+      height: 42
+    spriteID: 324730f541e285e45bf96a6358dd6f5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 67, y: 4}
+  - name: Femalewarrior_Frame_25
+    originalName: 
+    pivot: {x: 0.5625, y: -0.10000001}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 4
+      width: 48
+      height: 40
+    spriteID: 9a98f8f9c1550174798cb5f305c2920d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 4}
+  - name: Femalewarrior_Frame_26
+    originalName: 
+    pivot: {x: 0.43478262, y: -0.21212122}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 145
+      width: 23
+      height: 33
+    spriteID: 9a33c1e2d65f2ba438653cb35a229bd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 169, y: 145}
+  - name: Femalewarrior_Frame_27
+    originalName: 
+    pivot: {x: 0.516129, y: -0.18918918}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 54
+      width: 31
+      height: 37
+    spriteID: bf257c41d0cf4d941b537b85a9cffc88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 54}
+  - name: Femalewarrior_Frame_28
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.11904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 419
+      y: 4
+      width: 38
+      height: 42
+    spriteID: 21ed6e7df55c61f4b82aa20164b8e2cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 4}
+  - name: Femalewarrior_Frame_29
+    originalName: 
+    pivot: {x: 0.6756757, y: -0.12820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 145
+      width: 37
+      height: 39
+    spriteID: 3a730ca65e2cf37418f86319e1e0c991
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 145}
+  - name: Femalewarrior_Frame_30
+    originalName: 
+    pivot: {x: 0.71794873, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 99
+      width: 39
+      height: 38
+    spriteID: 3455537e4eaa01b4cbb6ac6f86deab1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 99}
+  - name: Femalewarrior_Frame_31
+    originalName: 
+    pivot: {x: 0.60975605, y: -0.13513513}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 54
+      width: 41
+      height: 37
+    spriteID: 0f174f836ab5b6c40a672ad782a19d79
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 54}
+  - name: Femalewarrior_Frame_32
+    originalName: 
+    pivot: {x: 0.575, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 54
+      width: 40
+      height: 32
+    spriteID: 4d1297c6df24489488d80361f465c5a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 54}
+  - name: Femalewarrior_Frame_33
+    originalName: 
+    pivot: {x: 0.575, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 101
+      y: 54
+      width: 40
+      height: 32
+    spriteID: 30ff2d4b0f8bdfb4286058877ebd7cf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 101, y: 54}
+  - name: Femalewarrior_Frame_34
+    originalName: 
+    pivot: {x: 0.54761904, y: -0.36363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 453
+      y: 54
+      width: 42
+      height: 22
+    spriteID: f50f29ec3439af74aba3d84e3b05e54d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 453, y: 54}
+  - name: Femalewarrior_Frame_35
+    originalName: 
+    pivot: {x: 0.575, y: -0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 121
+      y: 145
+      width: 40
+      height: 19
+    spriteID: ebf5866c880dc164caf1170f38bc101c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 121, y: 145}
+  - name: Femalewarrior_Frame_36
+    originalName: 
+    pivot: {x: 0.575, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 270
+      y: 145
+      width: 40
+      height: 18
+    spriteID: 0009b1cbbca173f4f88a802287093c83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 270, y: 145}
+  - name: Femalewarrior_Frame_37
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 118
+      y: 242
+      width: 19
+      height: 32
+    spriteID: 11f9afe0691cfc142a13c52e35ff679f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 118, y: 242}
+  - name: Femalewarrior_Frame_38
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.19354838}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 192
+      width: 21
+      height: 31
+    spriteID: 21af50115bccb524f98a20b5b5a1d084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 192}
+  - name: Femalewarrior_Frame_39
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.19354838}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 242
+      width: 20
+      height: 31
+    spriteID: cbddec9caa004744d9c1b2f656016614
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 242}
+  - name: Femalewarrior_Frame_40
+    originalName: 
+    pivot: {x: 0.61904764, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 145
+      width: 21
+      height: 32
+    spriteID: edff9051db8f58949af9726648624d4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 465, y: 145}
+  - name: Femalewarrior_Frame_41
+    originalName: 
+    pivot: {x: 0.55, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 192
+      width: 20
+      height: 33
+    spriteID: cb50249c1ec320f41a0c5275c27a314e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 192}
+  - name: Femalewarrior_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 192
+      width: 20
+      height: 33
+    spriteID: a6affcdd7c1f6084aa402be3236f8cc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 192}
+  - name: Femalewarrior_Frame_43
+    originalName: 
+    pivot: {x: 0.45000002, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 192
+      width: 20
+      height: 33
+    spriteID: 790457031e756924385739ad796a243e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 192}
+  - name: Femalewarrior_Frame_44
+    originalName: 
+    pivot: {x: 0.4, y: -0.34375}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 192
+      width: 20
+      height: 32
+    spriteID: 62f4c54f9db84ae4fa21595425a72d93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 192}
+  - name: Femalewarrior_Frame_45
+    originalName: 
+    pivot: {x: 0.3809524, y: -0.28125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 39
+      y: 192
+      width: 21
+      height: 32
+    spriteID: 746ab61028ef5d545b13564e2b492a17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 39, y: 192}
+  - name: Femalewarrior_Frame_46
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.14705883}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 318
+      y: 145
+      width: 21
+      height: 34
+    spriteID: 5b37dd8ffed38124592d32c7f830bca9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 318, y: 145}
+  - name: Femalewarrior_Frame_47
+    originalName: 
+    pivot: {x: 0.2857143, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 145
+      width: 21
+      height: 34
+    spriteID: 1b2eee43a4f97334a829c316cfd30265
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 145}
+  - name: Femalewarrior_Frame_48
+    originalName: 
+    pivot: {x: 0.2857143, y: -0.11764707}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 376
+      y: 145
+      width: 21
+      height: 34
+    spriteID: 5acc86e3158dd464f87fe361128fe2a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 376, y: 145}
+  - name: Femalewarrior_Frame_49
+    originalName: 
+    pivot: {x: 0.15789473, y: -0.3030303}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 31
+      y: 242
+      width: 19
+      height: 33
+    spriteID: 23eda04864d6244429970303d9571225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 31, y: 242}
+  - name: Femalewarrior_Frame_50
+    originalName: 
+    pivot: {x: -0.0625, y: -0.13157894}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 325
+      width: 16
+      height: 38
+    spriteID: 4080612ca0d33d44886bb7c3448590f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 325}
+  - name: Femalewarrior_Frame_51
+    originalName: 
+    pivot: {x: -0.13333334, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 325
+      width: 15
+      height: 38
+    spriteID: cac7a8b6afed533448e857ba064ddebb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 325}
+  - name: Femalewarrior_Frame_52
+    originalName: 
+    pivot: {x: -0.0625, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 325
+      width: 16
+      height: 38
+    spriteID: 2afffe14b120f0b4791a82ca6b25bc24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 325}
+  - name: Femalewarrior_Frame_53
+    originalName: 
+    pivot: {x: -0.21428573, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 494
+      y: 145
+      width: 14
+      height: 38
+    spriteID: 5e8625ef2ce9ff547b6f8d5ff2fd9651
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 494, y: 145}
+  - name: Femalewarrior_Frame_54
+    originalName: 
+    pivot: {x: -0.2857143, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 325
+      width: 14
+      height: 38
+    spriteID: 2f2f2dc0a4478db4385051b87a7a454d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 325}
+  - name: Femalewarrior_Frame_55
+    originalName: 
+    pivot: {x: -0.2857143, y: -0.10526316}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 325
+      width: 14
+      height: 38
+    spriteID: 50cae100763d35c4584a2905ab9f0614
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 240, y: 325}
+  - name: Femalewarrior_Frame_56
+    originalName: 
+    pivot: {x: -0.125, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 325
+      width: 16
+      height: 38
+    spriteID: 5a988313d2077cb4a9a593a796dd811b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 325}
+  - name: Femalewarrior_Frame_57
+    originalName: 
+    pivot: {x: -0.125, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 325
+      width: 16
+      height: 38
+    spriteID: da510badd0760c2438210d0662d1f902
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 325}
+  - name: Femalewarrior_Frame_58
+    originalName: 
+    pivot: {x: -0.20000002, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 147
+      y: 325
+      width: 15
+      height: 38
+    spriteID: a06ddd1100da47646916c2a19a74b472
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 147, y: 325}
+  - name: Femalewarrior_Frame_59
+    originalName: 
+    pivot: {x: -0.2857143, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 325
+      width: 14
+      height: 38
+    spriteID: a84b7edad5b1d8f48853480641d1f7b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 262, y: 325}
+  - name: Femalewarrior_Frame_60
+    originalName: 
+    pivot: {x: 0.375, y: -0.17142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 325
+      width: 16
+      height: 35
+    spriteID: cac3b0df431307f4d861db6a418f3224
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 325}
+  - name: Femalewarrior_Frame_61
+    originalName: 
+    pivot: {x: 0.375, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 100
+      y: 325
+      width: 16
+      height: 36
+    spriteID: 81639b88e74288b4291effc5efbd6540
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 100, y: 325}
+  - name: Femalewarrior_Frame_62
+    originalName: 
+    pivot: {x: 0.375, y: -0.17142858}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 325
+      width: 16
+      height: 35
+    spriteID: f8ff697b6415ed2449bc0a33a3f6c737
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 325}
+  - name: Femalewarrior_Frame_63
+    originalName: 
+    pivot: {x: 0.4, y: -0.20689656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 242
+      width: 20
+      height: 29
+    spriteID: e8c9368f01214644b8c1cac35057d261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 242}
+  - name: Femalewarrior_Frame_64
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 398
+      y: 242
+      width: 21
+      height: 23
+    spriteID: a4e96b0e440ec2d4187c8c36b3d65ab9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 398, y: 242}
+  - name: Femalewarrior_Frame_65
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.26086956}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 427
+      y: 242
+      width: 21
+      height: 23
+    spriteID: 5b4f4fc7c3031c548b1eff39b6846080
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 427, y: 242}
+  - name: Femalewarrior_Frame_66
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 242
+      width: 21
+      height: 22
+    spriteID: 2f50006e5d987464aaadf0e599ef77da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 242}
+  - name: Femalewarrior_Frame_67
+    originalName: 
+    pivot: {x: 0.52380955, y: -0.27272728}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 485
+      y: 242
+      width: 21
+      height: 22
+    spriteID: 540a6b3edb0fa2e41bbd1e526583d6da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 485, y: 242}
+  - name: Femalewarrior_Frame_68
+    originalName: 
+    pivot: {x: 0.6, y: -0.20689656}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 242
+      width: 20
+      height: 29
+    spriteID: cd46b411a685820438905c6581c6be01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 242}
+  - name: Femalewarrior_Frame_69
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 235
+      y: 99
+      width: 29
+      height: 28
+    spriteID: 7879746387b477c4894c53faa6125b04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 235, y: 99}
+  - name: Femalewarrior_Frame_70
+    originalName: 
+    pivot: {x: 0.46428573, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 345
+      y: 99
+      width: 28
+      height: 28
+    spriteID: 58374ac41f4adbf4683e3e8e67550442
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 345, y: 99}
+  - name: Femalewarrior_Frame_71
+    originalName: 
+    pivot: {x: 0.46428573, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 99
+      width: 28
+      height: 28
+    spriteID: c9292f98ea2bec74e9bba5e872797e9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 99}
+  - name: Femalewarrior_Frame_72
+    originalName: 
+    pivot: {x: 0.46428573, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 99
+      width: 28
+      height: 28
+    spriteID: 067e9f66564dfcb49aa5d2582b4d1403
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 417, y: 99}
+  - name: Femalewarrior_Frame_73
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 453
+      y: 99
+      width: 28
+      height: 28
+    spriteID: 1a42378b17023e142ba87765f6fd50fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 453, y: 99}
+  - name: Femalewarrior_Frame_74
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.21428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 145
+      width: 28
+      height: 28
+    spriteID: ef3a52b9baacb4f428407b607d97bc08
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 145}
+  - name: Femalewarrior_Frame_75
+    originalName: 
+    pivot: {x: 0.5666667, y: -0.22580643}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 54
+      width: 30
+      height: 31
+    spriteID: 9c78c76655c82a14e833b48be4d17230
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 54}
+  - name: Femalewarrior_Frame_76
+    originalName: 
+    pivot: {x: 0.5357143, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 145
+      width: 28
+      height: 28
+    spriteID: 3e64b77fe2cb1d845bfaf6cc4853ef1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 145}
+  - name: Femalewarrior_Frame_77
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 99
+      width: 29
+      height: 28
+    spriteID: 73d1df52ce6615c42ab72bc13741faf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 99}
+  - name: Femalewarrior_Frame_78
+    originalName: 
+    pivot: {x: 0.58064514, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 99
+      width: 31
+      height: 28
+    spriteID: 8f72f515c102c3646895b2d2fe31bdb4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 99}
+  - name: Femalewarrior_Frame_79
+    originalName: 
+    pivot: {x: 0.4528302, y: -0.16216215}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 4
+      width: 53
+      height: 37
+    spriteID: 0e92a5c6556539346a5ce15aaa2f503c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 4}
+  - name: Femalewarrior_Frame_80
+    originalName: 
+    pivot: {x: 0.42592594, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 245
+      y: 4
+      width: 54
+      height: 36
+    spriteID: 4e44deddf24e65c4aa1287e245c2d3ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 245, y: 4}
+  - name: Femalewarrior_Frame_81
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 188
+      y: 54
+      width: 43
+      height: 26
+    spriteID: e69c8f2f79ad7ed4d82422ffe01c6c9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 188, y: 54}
+  - name: Femalewarrior_Frame_82
+    originalName: 
+    pivot: {x: 0.4883721, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 54
+      width: 43
+      height: 26
+    spriteID: 0ca7ba3fc69bd5c4084bd4b2f228e425
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 54}
+  - name: Femalewarrior_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: -0.23076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 54
+      width: 42
+      height: 26
+    spriteID: d40903ae0f02ec04fa1468092acfa1f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 54}
+  - name: Femalewarrior_Frame_84
+    originalName: 
+    pivot: {x: 0.75, y: -0.2580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 242
+      width: 16
+      height: 31
+    spriteID: fb3b44753ca28bb489936775ea137487
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 242}
+  - name: Femalewarrior_Frame_85
+    originalName: 
+    pivot: {x: 0.7, y: -0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 192
+      width: 20
+      height: 32
+    spriteID: a735400dc79277c45ace6bd91942e82d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 192}
+  - name: Femalewarrior_Frame_86
+    originalName: 
+    pivot: {x: 0.58064514, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 242
+      width: 31
+      height: 18
+    spriteID: 2fca66aec2e2fba459fc92b2a8fe4256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 242}
+  - name: Femalewarrior_Frame_87
+    originalName: 
+    pivot: {x: 0.6, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 420
+      y: 192
+      width: 35
+      height: 18
+    spriteID: 6e8772f26410a1940bf8bb16cdc80d70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 420, y: 192}
+  - name: Femalewarrior_Frame_88
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.44444448}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 463
+      y: 192
+      width: 35
+      height: 18
+    spriteID: 9c8a19bd6e75ace45ad9f8937c41c3fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 463, y: 192}
+  - name: Femalewarrior_Frame_89
+    originalName: 
+    pivot: {x: 0.625, y: -0.38095242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 192
+      width: 32
+      height: 21
+    spriteID: 54aa917913ca6914ab5b4f005a2f478d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 192}
+  - name: Femalewarrior_Frame_90
+    originalName: 
+    pivot: {x: 0.75, y: -0.2857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 192
+      width: 24
+      height: 28
+    spriteID: d70a19283ffca984db368e3977a06368
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 192}
+  - name: Femalewarrior_Frame_91
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 283
+      width: 18
+      height: 34
+    spriteID: 77592a6776138a04eae79da3b81f8283
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 283}
+  - name: Femalewarrior_Frame_92
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.2647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 30
+      y: 283
+      width: 18
+      height: 34
+    spriteID: f8b6e4fbac920a445b59a0df0c0329ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 30, y: 283}
+  - name: Femalewarrior_Frame_93
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.2162162}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 192
+      width: 18
+      height: 37
+    spriteID: 0a65a2dfdbb79a34ea348e18c0b3f58d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 192}
+  - name: Femalewarrior_Frame_94
+    originalName: 
+    pivot: {x: 0.6315789, y: -0.26315787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 99
+      width: 19
+      height: 38
+    spriteID: a39ffabe05c514c4daf88f9649e0c9c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 489, y: 99}
+  - name: Femalewarrior_Frame_95
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.3529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 283
+      width: 18
+      height: 34
+    spriteID: 2de72a48b2d1720498a20ddd378e8ebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 283}
+  - name: Femalewarrior_Frame_96
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.2647059}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 283
+      width: 18
+      height: 34
+    spriteID: dd3a1798a4fb3654badb2fdd0980a301
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 283}
+  - name: Femalewarrior_Frame_97
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.16216215}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 197
+      y: 192
+      width: 18
+      height: 37
+    spriteID: 912566d627c23f74c94c77578657f9bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 197, y: 192}
+  - name: Femalewarrior_Frame_98
+    originalName: 
+    pivot: {x: 0.6111111, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 439
+      y: 145
+      width: 18
+      height: 38
+    spriteID: 9206c8f4b44555e4f8c5de8ef56f0e06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 439, y: 145}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1045736508
+    name: Femalewarrior
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Femalewarrior_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 18
+        y: 6
+        width: 18
+        height: 33
+      spriteId: fe7a8b3f1a39c1548b625b44cb457df1
+    - name: Femalewarrior_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 18
+        y: 6
+        width: 18
+        height: 33
+      spriteId: 81717dd6a939fc34da647bb874f8288e
+    - name: Femalewarrior_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 17
+        y: 6
+        width: 20
+        height: 33
+      spriteId: 6c07135c089e9ad41916416df003ea2e
+    - name: Femalewarrior_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 17
+        y: 6
+        width: 19
+        height: 33
+      spriteId: 39fc7c086684df14cb409108839c24c1
+    - name: Femalewarrior_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 18
+        y: 6
+        width: 18
+        height: 33
+      spriteId: 7a19350c42226694a8d6056c1aa92ea9
+    - name: Femalewarrior_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 18
+        y: 6
+        width: 18
+        height: 33
+      spriteId: 057968b67df0f2b43b122e00679bf898
+    - name: Femalewarrior_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 12
+        y: 9
+        width: 25
+        height: 29
+      spriteId: 274fdb817d4175a44a8490b0757d80ae
+    - name: Femalewarrior_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 22
+        y: 11
+        width: 24
+        height: 26
+      spriteId: b1db284a197ec98488ea7c201036eefe
+    - name: Femalewarrior_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 25
+        y: 7
+        width: 29
+        height: 26
+      spriteId: dea825a05a78b4148a7b00b098639d7b
+    - name: Femalewarrior_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 26
+        y: 6
+        width: 26
+        height: 27
+      spriteId: 35b1d2a1018679f47a329e4a044c2c12
+    - name: Femalewarrior_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 24
+        y: 6
+        width: 29
+        height: 28
+      spriteId: 5e4cabd7ea212e24fa23491a353987c6
+    - name: Femalewarrior_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 22
+        y: 7
+        width: 28
+        height: 28
+      spriteId: b6597a0fbceb8b3488bd71eede9bcf4b
+    - name: Femalewarrior_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 11
+        y: 6
+        width: 29
+        height: 28
+      spriteId: f2da4768b376ccf4ebb4bfeb5883e421
+    - name: Femalewarrior_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 22
+        y: 6
+        width: 22
+        height: 27
+      spriteId: 3e9077d40602c70428bbc27da6373cbc
+    - name: Femalewarrior_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 23
+        y: 4
+        width: 27
+        height: 42
+      spriteId: dc2c8123c6bec444094216d88901de51
+    - name: Femalewarrior_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 22
+        y: 4
+        width: 30
+        height: 37
+      spriteId: 3734cb3bdd19c27438d79e8f1a96a09f
+    - name: Femalewarrior_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 23
+        y: 4
+        width: 28
+        height: 32
+      spriteId: f9ff51e2e282a5d459d5763843f9d1bf
+    - name: Femalewarrior_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 20
+        y: 4
+        width: 29
+        height: 32
+      spriteId: d4adeeb090d2e89479e2e2a4ceb72be0
+    - name: Femalewarrior_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 18
+        y: 5
+        width: 27
+        height: 32
+      spriteId: 7ae7db8a960da2d45bfa89718ae8c436
+    - name: Femalewarrior_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 13
+        y: 5
+        width: 48
+        height: 40
+      spriteId: 9801a109be2963a45a14fbc08f3f976a
+    - name: Femalewarrior_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 12
+        y: 5
+        width: 50
+        height: 39
+      spriteId: c65a6a8132c30e143badddc242055c09
+    - name: Femalewarrior_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 16
+        y: 5
+        width: 40
+        height: 39
+      spriteId: a27c2f469a35b944191492c12d119642
+    - name: Femalewarrior_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 23
+        y: 5
+        width: 23
+        height: 29
+      spriteId: ce08d720eef33d8418324e71aa6b801d
+    - name: Femalewarrior_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 4
+        y: 4
+        width: 55
+        height: 42
+      spriteId: 69a6a99eb226a304ba14bd09717f9734
+    - name: Femalewarrior_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 3
+        y: 4
+        width: 51
+        height: 42
+      spriteId: 324730f541e285e45bf96a6358dd6f5b
+    - name: Femalewarrior_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 5
+        y: 4
+        width: 48
+        height: 40
+      spriteId: 9a98f8f9c1550174798cb5f305c2920d
+    - name: Femalewarrior_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 22
+        y: 7
+        width: 23
+        height: 33
+      spriteId: 9a33c1e2d65f2ba438653cb35a229bd5
+    - name: Femalewarrior_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 16
+        y: 7
+        width: 31
+        height: 37
+      spriteId: bf257c41d0cf4d941b537b85a9cffc88
+    - name: Femalewarrior_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 10
+        y: 5
+        width: 38
+        height: 42
+      spriteId: 21ed6e7df55c61f4b82aa20164b8e2cd
+    - name: Femalewarrior_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 7
+        y: 5
+        width: 37
+        height: 39
+      spriteId: 3a730ca65e2cf37418f86319e1e0c991
+    - name: Femalewarrior_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 4
+        y: 6
+        width: 39
+        height: 38
+      spriteId: 3455537e4eaa01b4cbb6ac6f86deab1f
+    - name: Femalewarrior_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 7
+        y: 5
+        width: 41
+        height: 37
+      spriteId: 0f174f836ab5b6c40a672ad782a19d79
+    - name: Femalewarrior_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 9
+        y: 6
+        width: 40
+        height: 32
+      spriteId: 4d1297c6df24489488d80361f465c5a2
+    - name: Femalewarrior_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 9
+        y: 8
+        width: 40
+        height: 32
+      spriteId: 30ff2d4b0f8bdfb4286058877ebd7cf0
+    - name: Femalewarrior_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 9
+        y: 8
+        width: 42
+        height: 22
+      spriteId: f50f29ec3439af74aba3d84e3b05e54d
+    - name: Femalewarrior_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 9
+        y: 8
+        width: 40
+        height: 19
+      spriteId: ebf5866c880dc164caf1170f38bc101c
+    - name: Femalewarrior_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 9
+        y: 8
+        width: 40
+        height: 18
+      spriteId: 0009b1cbbca173f4f88a802287093c83
+    - name: Femalewarrior_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 21
+        y: 6
+        width: 19
+        height: 32
+      spriteId: 11f9afe0691cfc142a13c52e35ff679f
+    - name: Femalewarrior_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 18
+        y: 6
+        width: 21
+        height: 31
+      spriteId: 21af50115bccb524f98a20b5b5a1d084
+    - name: Femalewarrior_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 19
+        y: 6
+        width: 20
+        height: 31
+      spriteId: cbddec9caa004744d9c1b2f656016614
+    - name: Femalewarrior_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 19
+        y: 6
+        width: 21
+        height: 32
+      spriteId: edff9051db8f58949af9726648624d4e
+    - name: Femalewarrior_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 21
+        y: 8
+        width: 20
+        height: 33
+      spriteId: cb50249c1ec320f41a0c5275c27a314e
+    - name: Femalewarrior_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 22
+        y: 9
+        width: 20
+        height: 33
+      spriteId: a6affcdd7c1f6084aa402be3236f8cc2
+    - name: Femalewarrior_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 23
+        y: 10
+        width: 20
+        height: 33
+      spriteId: 790457031e756924385739ad796a243e
+    - name: Femalewarrior_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 24
+        y: 11
+        width: 20
+        height: 32
+      spriteId: 62f4c54f9db84ae4fa21595425a72d93
+    - name: Femalewarrior_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 24
+        y: 9
+        width: 21
+        height: 32
+      spriteId: 746ab61028ef5d545b13564e2b492a17
+    - name: Femalewarrior_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 25
+        y: 5
+        width: 21
+        height: 34
+      spriteId: 5b37dd8ffed38124592d32c7f830bca9
+    - name: Femalewarrior_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 26
+        y: 4
+        width: 21
+        height: 34
+      spriteId: 1b2eee43a4f97334a829c316cfd30265
+    - name: Femalewarrior_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 26
+        y: 4
+        width: 21
+        height: 34
+      spriteId: 5acc86e3158dd464f87fe361128fe2a2
+    - name: Femalewarrior_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 29
+        y: 10
+        width: 19
+        height: 33
+      spriteId: 23eda04864d6244429970303d9571225
+    - name: Femalewarrior_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 33
+        y: 5
+        width: 16
+        height: 38
+      spriteId: 4080612ca0d33d44886bb7c3448590f9
+    - name: Femalewarrior_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 34
+        y: 4
+        width: 15
+        height: 38
+      spriteId: cac7a8b6afed533448e857ba064ddebb
+    - name: Femalewarrior_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 33
+        y: 4
+        width: 16
+        height: 38
+      spriteId: 2afffe14b120f0b4791a82ca6b25bc24
+    - name: Femalewarrior_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 35
+        y: 4
+        width: 14
+        height: 38
+      spriteId: 5e8625ef2ce9ff547b6f8d5ff2fd9651
+    - name: Femalewarrior_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 36
+        y: 4
+        width: 14
+        height: 38
+      spriteId: 2f2f2dc0a4478db4385051b87a7a454d
+    - name: Femalewarrior_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 36
+        y: 4
+        width: 14
+        height: 38
+      spriteId: 50cae100763d35c4584a2905ab9f0614
+    - name: Femalewarrior_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 34
+        y: 6
+        width: 16
+        height: 38
+      spriteId: 5a988313d2077cb4a9a593a796dd811b
+    - name: Femalewarrior_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 34
+        y: 6
+        width: 16
+        height: 38
+      spriteId: da510badd0760c2438210d0662d1f902
+    - name: Femalewarrior_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 35
+        y: 6
+        width: 15
+        height: 38
+      spriteId: a06ddd1100da47646916c2a19a74b472
+    - name: Femalewarrior_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 36
+        y: 6
+        width: 14
+        height: 38
+      spriteId: a84b7edad5b1d8f48853480641d1f7b8
+    - name: Femalewarrior_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 26
+        y: 6
+        width: 16
+        height: 35
+      spriteId: cac3b0df431307f4d861db6a418f3224
+    - name: Femalewarrior_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 26
+        y: 6
+        width: 16
+        height: 36
+      spriteId: 81639b88e74288b4291effc5efbd6540
+    - name: Femalewarrior_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 26
+        y: 6
+        width: 16
+        height: 35
+      spriteId: f8ff697b6415ed2449bc0a33a3f6c737
+    - name: Femalewarrior_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 24
+        y: 6
+        width: 20
+        height: 29
+      spriteId: e8c9368f01214644b8c1cac35057d261
+    - name: Femalewarrior_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 21
+        y: 6
+        width: 21
+        height: 23
+      spriteId: a4e96b0e440ec2d4187c8c36b3d65ab9
+    - name: Femalewarrior_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 21
+        y: 6
+        width: 21
+        height: 23
+      spriteId: 5b4f4fc7c3031c548b1eff39b6846080
+    - name: Femalewarrior_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 21
+        y: 6
+        width: 21
+        height: 22
+      spriteId: 2f50006e5d987464aaadf0e599ef77da
+    - name: Femalewarrior_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 21
+        y: 6
+        width: 21
+        height: 22
+      spriteId: 540a6b3edb0fa2e41bbd1e526583d6da
+    - name: Femalewarrior_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 20
+        y: 6
+        width: 20
+        height: 29
+      spriteId: cd46b411a685820438905c6581c6be01
+    - name: Femalewarrior_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 18
+        y: 6
+        width: 29
+        height: 28
+      spriteId: 7879746387b477c4894c53faa6125b04
+    - name: Femalewarrior_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 19
+        y: 6
+        width: 28
+        height: 28
+      spriteId: 58374ac41f4adbf4683e3e8e67550442
+    - name: Femalewarrior_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 19
+        y: 6
+        width: 28
+        height: 28
+      spriteId: c9292f98ea2bec74e9bba5e872797e9b
+    - name: Femalewarrior_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 19
+        y: 6
+        width: 28
+        height: 28
+      spriteId: 067e9f66564dfcb49aa5d2582b4d1403
+    - name: Femalewarrior_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 17
+        y: 6
+        width: 28
+        height: 28
+      spriteId: 1a42378b17023e142ba87765f6fd50fb
+    - name: Femalewarrior_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 16
+        y: 6
+        width: 28
+        height: 28
+      spriteId: ef3a52b9baacb4f428407b607d97bc08
+    - name: Femalewarrior_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 15
+        y: 7
+        width: 30
+        height: 31
+      spriteId: 9c78c76655c82a14e833b48be4d17230
+    - name: Femalewarrior_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 17
+        y: 7
+        width: 28
+        height: 28
+      spriteId: 3e64b77fe2cb1d845bfaf6cc4853ef1d
+    - name: Femalewarrior_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 18
+        y: 7
+        width: 29
+        height: 28
+      spriteId: 73d1df52ce6615c42ab72bc13741faf1
+    - name: Femalewarrior_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 14
+        y: 7
+        width: 31
+        height: 28
+      spriteId: 8f72f515c102c3646895b2d2fe31bdb4
+    - name: Femalewarrior_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 8
+        y: 6
+        width: 53
+        height: 37
+      spriteId: 0e92a5c6556539346a5ce15aaa2f503c
+    - name: Femalewarrior_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 9
+        y: 6
+        width: 54
+        height: 36
+      spriteId: 4e44deddf24e65c4aa1287e245c2d3ec
+    - name: Femalewarrior_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 11
+        y: 6
+        width: 43
+        height: 26
+      spriteId: e69c8f2f79ad7ed4d82422ffe01c6c9b
+    - name: Femalewarrior_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 11
+        y: 6
+        width: 43
+        height: 26
+      spriteId: 0ca7ba3fc69bd5c4084bd4b2f228e425
+    - name: Femalewarrior_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 11
+        y: 6
+        width: 42
+        height: 26
+      spriteId: d40903ae0f02ec04fa1468092acfa1f2
+    - name: Femalewarrior_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 20
+        y: 8
+        width: 16
+        height: 31
+      spriteId: fb3b44753ca28bb489936775ea137487
+    - name: Femalewarrior_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 18
+        y: 8
+        width: 20
+        height: 32
+      spriteId: a735400dc79277c45ace6bd91942e82d
+    - name: Femalewarrior_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 14
+        y: 8
+        width: 31
+        height: 18
+      spriteId: 2fca66aec2e2fba459fc92b2a8fe4256
+    - name: Femalewarrior_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 11
+        y: 8
+        width: 35
+        height: 18
+      spriteId: 6e8772f26410a1940bf8bb16cdc80d70
+    - name: Femalewarrior_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 12
+        y: 8
+        width: 35
+        height: 18
+      spriteId: 9c8a19bd6e75ace45ad9f8937c41c3fe
+    - name: Femalewarrior_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 12
+        y: 8
+        width: 32
+        height: 21
+      spriteId: 54aa917913ca6914ab5b4f005a2f478d
+    - name: Femalewarrior_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 14
+        y: 8
+        width: 24
+        height: 28
+      spriteId: d70a19283ffca984db368e3977a06368
+    - name: Femalewarrior_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 21
+        y: 10
+        width: 18
+        height: 34
+      spriteId: 77592a6776138a04eae79da3b81f8283
+    - name: Femalewarrior_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 21
+        y: 9
+        width: 18
+        height: 34
+      spriteId: f8b6e4fbac920a445b59a0df0c0329ca
+    - name: Femalewarrior_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 20
+        y: 8
+        width: 18
+        height: 37
+      spriteId: 0a65a2dfdbb79a34ea348e18c0b3f58d
+    - name: Femalewarrior_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 20
+        y: 10
+        width: 19
+        height: 38
+      spriteId: a39ffabe05c514c4daf88f9649e0c9c4
+    - name: Femalewarrior_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 21
+        y: 12
+        width: 18
+        height: 34
+      spriteId: 2de72a48b2d1720498a20ddd378e8ebd
+    - name: Femalewarrior_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 21
+        y: 9
+        width: 18
+        height: 34
+      spriteId: dd3a1798a4fb3654badb2fdd0980a301
+    - name: Femalewarrior_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 21
+        y: 6
+        width: 18
+        height: 37
+      spriteId: 912566d627c23f74c94c77578657f9bf
+    - name: Femalewarrior_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 21
+        y: 6
+        width: 18
+        height: 38
+      spriteId: 9206c8f4b44555e4f8c5de8ef56f0e06
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 48}

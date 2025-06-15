@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DestructibleItem_Box_AC
+  m_Controller: {fileID: 9100000, guid: dc461fb681c8e0a4dbc70dd745e7b903, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a6a863ecee0ffdd4096510878c5685b9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 701ceb507ad0441468c13895e19756cf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 900078e48858fbd4b8b3b312635eacf9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3fbe9014444ee4647a01565193ae28c0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: df167a6db2e218449b90838a25586593, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08714e0663ea36446b7fff4a5091b26a, type: 2}

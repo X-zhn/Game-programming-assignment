@@ -1,0 +1,2508 @@
+fileFormatVersion: 2
+guid: 0148eb3766cf0db4f824810121d6e4f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 774
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07b13ac63e6ff4791d64079476c29c
+      internalID: 1900003911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 774
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae91296c43483849b5d071c42158423
+      internalID: 1739887525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 774
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59080461b6ac6384f82981e48001483a
+      internalID: -900417263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 774
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09c2b6d2a6d214c9b3bf8b5beb17f4
+      internalID: 1388799780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 774
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90083562b0cda5049a9e556113aaf4bf
+      internalID: -18098254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 774
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38144839d47f5ef40a2b98b904d7a7a7
+      internalID: 1695146138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 729
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d8da407d8a3544ae76a92abdc6986
+      internalID: 1180157019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 731
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb9826aa9224a4aa7ba03755c0feea
+      internalID: 1360214571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 727
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbd432408f76b74db5ce7f2b9a06775
+      internalID: -693854875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 726
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396394252af0b884992abadc7463a15b
+      internalID: -4810513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 726
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef2a527ab11e6b4ea825945dd636ed1
+      internalID: -1130550703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 727
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db16eaa5b4b52404ebbbb12abb142192
+      internalID: 1103948095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 678
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b6c80d16eb3643a3bdda919b079c3
+      internalID: 1789676391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 678
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178a08a7d49ff97419c76515193cbfc4
+      internalID: 2054964668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 676
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebe6441e39c0ad42a3dec4f75a78982
+      internalID: -1406079426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 664
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c803e9e808c3b44b8747fe77998838
+      internalID: 655192181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 676
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4f402aa2213b4ba7781fd75bb8eb9
+      internalID: -564552252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 676
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e34bdea8530d714ebbcea3b584e4dde
+      internalID: -746123602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 629
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77314da8ad625094cb3fcb38a475e4f3
+      internalID: -1913186457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 629
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df5aa82e2c94c47beb4de4fb9dfb4a
+      internalID: 334580912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 629
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7a9804c1e47d43adf721946b575ad
+      internalID: -1454312393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 629
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ad15fb44dff14888d71a293cfcb82
+      internalID: 1676753244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 653
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eef334e405e9f498dd63abd7ab78fb
+      internalID: 1683959876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 629
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632065f714b028f4497ea7ac7b45cc9a
+      internalID: 1802729612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 628
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566963a8f59b9f4a8e3da157a2085f5
+      internalID: -1747224087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e8ffc170a4c144a9be70d155d8d82
+      internalID: 161651244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 580
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ad4ff1478a69b4d912a840d654c94d
+      internalID: -732231158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 583
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dd332fb46c20f45a996372583ea081
+      internalID: 184144792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 583
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf4361aa39c6240aab20be8eecc3bc
+      internalID: 7049806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 589
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a339a66b93cbd4ea5abe7fb0500047
+      internalID: -1096612282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 599
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2339ac8343254bbe2893d6642794c
+      internalID: -1505014273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 595
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53f87eea2afec42ba249fa6b1cf020
+      internalID: 2054938856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 581
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc63e16a762c3047805a6b95ccec11c
+      internalID: 1041956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 581
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dcc87b1cd3ede4db21bf9ab5719ebb
+      internalID: -66220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 534
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac056559878b904fb50d112155672ff
+      internalID: -841973158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 536
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2aa1dd7a8fb744ab3012d9343d9a5
+      internalID: 1691635159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 533
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad1250d54f9f63458484e5b03365958
+      internalID: 867327308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 536
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757627cee95c06b438160a332c8b5963
+      internalID: 757426056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 536
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66465cb7927a1a342b84265afe31520c
+      internalID: 1346619962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 534
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92596842855644fa01e3bcac7987c5
+      internalID: 1219210990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 488
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d394eb56e65a8e478ae14bfbc4be992
+      internalID: -1330302906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 486
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0b243e5f607b24883cc3e25d6259c3
+      internalID: -1101097959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 486
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b834d116c97b045916368e850c23ab
+      internalID: 127846948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 486
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b7b351647fcc448b72cf329339cbe7
+      internalID: 684890227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 486
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039a8c0d3f56d846b060c5f7c3c7e31
+      internalID: 292059341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 488
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a519217fe54441a46209305a2ca5e
+      internalID: 1265567471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 441
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a69c336f0be7947a93f6c36f2b05b7
+      internalID: 1001980200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 442
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c67787e5d0334c8c181cd4156c424
+      internalID: -1178170189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 443
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f371d430cb9e73441a5a3a2da1b62422
+      internalID: 112245856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 441
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc5db98b8e32942ba6ce2af57f3d41
+      internalID: -1051955579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 437
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cb14be04e4c3b4abd40be94096268c
+      internalID: 187654699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 436
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0572f9bb7408478a738635118552a
+      internalID: 1782622568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 388
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0337692f1359784cbff38ea459189e3
+      internalID: -1759131260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 394
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12caf40e99cd4345b608dd3f977695c
+      internalID: 1317783862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 389
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c03e5721cbd54f9b506084b7073ab
+      internalID: -157217186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 388
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dc854921723d742985d2d1521e46f1
+      internalID: 1129109094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 388
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baec48de4d3c664a87776f283a21c61
+      internalID: -990748607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 388
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519e6750b7a1b54d9b2a76b329e9fd4
+      internalID: 1185235288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 340
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724c1a618bbcc3499babfa0ea23a2f9
+      internalID: 467580341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 340
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a87c5d7e7f34408c21e7fca61da7b
+      internalID: -443946038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 342
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f5a1dbcd689244fa4a989be37b48a8
+      internalID: -103029152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 342
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b5d30273feaf419ea378dad265daf
+      internalID: -1370689955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 342
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44e458f21e70346a4503fdaa6ab1c9
+      internalID: 556081026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 342
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e92b825340e43409c7f91c46eb2185
+      internalID: -1510188582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 294
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd02729bccf4bd24dbc8c956e839fbbd
+      internalID: -2043498441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 294
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3867d320e63aebd4c91836dc8f1cb247
+      internalID: 1026486765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 294
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd650fb32756e43bcecc6dd0f90d8a
+      internalID: -883919894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 294
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d441dc8df20cb45bc7fcfabcbe302a
+      internalID: 575928483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 294
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f04c3603843c4396c16e6ccdc378a
+      internalID: 462212116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 294
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9662e9faa61a244a60b6cae56f53c6
+      internalID: -1013393298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 246
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecf61a689284004199711707ddbb56c
+      internalID: 1956908215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 246
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4291f2a7ab372c143b280088504a792d
+      internalID: 1009547364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 246
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738c3728c5fdc7f449d8a93f4e04b04c
+      internalID: 2029498711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 246
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a810e3694e7de4cb099a1f29c89e60
+      internalID: 1886450772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 246
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb5707b43bb4964d839df921d1ca47e
+      internalID: -2093439360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 246
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d4b6b412c3504ba0d851e88bc530b
+      internalID: 577266583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 198
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc4d46a4b96b02459a8088e11d00205
+      internalID: -733215331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b14223b7e70540ac075f2f1519c32
+      internalID: 2020753862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 198
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d962e396c81772344b4fa2473975af3e
+      internalID: -1624487534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 198
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ead547322e0565418447af5a1d40002
+      internalID: -261071971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16fe768fe65a8c44ab75be7813849c6
+      internalID: -1581560001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 199
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599228a3f57573a46842427754e2cdc0
+      internalID: -1978565899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 199
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674cee0dc99dc6f4ba071894ed428e42
+      internalID: -1355897021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 199
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0db189c10244e429b7cea2296153e1
+      internalID: 516790305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 151
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1869bea16a755845aec1ce65e8fe17d
+      internalID: 1567865666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 150
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d092261c001c45a267e8eb0fde141
+      internalID: -1044700980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 150
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139192be9ae2bf64cbc7b842bb8568d7
+      internalID: 586947619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dd296ecb2fc0b48bca8db36ba4ad9a
+      internalID: -588394306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 150
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82afd963b8f972240ada7fb9f00ade55
+      internalID: 1662589012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 150
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca728baaf807f42b256bb1d15c2160
+      internalID: -1070585058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd266bfeb995e544288d2fed28c9439a
+      internalID: -2105045158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68619513cb5726145b14d94923c6c5d9
+      internalID: -1414777407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 104
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a3167081483b4c937ab0e71e3a35f
+      internalID: 1346823343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de88bf5b1a1ca4ab2bc896a450d1cc
+      internalID: -2115261971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 104
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3084bad92bcab47a65c72e30362215
+      internalID: 1067801226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 104
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d44b99dec13e240ba5ec92d859246e
+      internalID: 302304759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 104
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5576b85a5be23498958a0a759d8b62
+      internalID: 1387173254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 56
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980a779f19a344b45abd1ce21c2e86ef
+      internalID: -1911814852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 58
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faec71d076db8849a3e9968245554e9
+      internalID: 105731421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 57
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c801ac9032331418df55a636f10aa6
+      internalID: -1867588967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 56
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b98e3f112e1c64a82141b5fc1b27c8
+      internalID: 856209983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 58
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ea9a60c0b0534bb540114772432b8
+      internalID: 1416432596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 60
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e19f7d3f8a832438f4cab9018b2f55
+      internalID: -472058203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 9
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a13657be1418b4182c4a9be1047f79
+      internalID: -1287736725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5a1ee4326b39439cda773d079c529
+      internalID: -1305364465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Femalewarrior-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ce5621a7d86454492d304d455a8923
+      internalID: 1906836370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Femalewarrior-sheet_0: 1900003911
+      Femalewarrior-sheet_1: 1739887525
+      Femalewarrior-sheet_10: -1130550703
+      Femalewarrior-sheet_100: -2105045158
+      Femalewarrior-sheet_101: -1414777407
+      Femalewarrior-sheet_102: 1346823343
+      Femalewarrior-sheet_103: -2115261971
+      Femalewarrior-sheet_104: 1067801226
+      Femalewarrior-sheet_105: 302304759
+      Femalewarrior-sheet_106: 1387173254
+      Femalewarrior-sheet_107: -1911814852
+      Femalewarrior-sheet_108: 105731421
+      Femalewarrior-sheet_109: -1867588967
+      Femalewarrior-sheet_11: 1103948095
+      Femalewarrior-sheet_110: 856209983
+      Femalewarrior-sheet_111: 1416432596
+      Femalewarrior-sheet_112: -472058203
+      Femalewarrior-sheet_113: -1287736725
+      Femalewarrior-sheet_114: -1305364465
+      Femalewarrior-sheet_115: 1906836370
+      Femalewarrior-sheet_12: 1789676391
+      Femalewarrior-sheet_13: 2054964668
+      Femalewarrior-sheet_14: -1406079426
+      Femalewarrior-sheet_15: 655192181
+      Femalewarrior-sheet_16: -564552252
+      Femalewarrior-sheet_17: -746123602
+      Femalewarrior-sheet_18: -1913186457
+      Femalewarrior-sheet_19: 334580912
+      Femalewarrior-sheet_2: -900417263
+      Femalewarrior-sheet_20: -1454312393
+      Femalewarrior-sheet_21: 1676753244
+      Femalewarrior-sheet_22: 1683959876
+      Femalewarrior-sheet_23: 1802729612
+      Femalewarrior-sheet_24: -1747224087
+      Femalewarrior-sheet_25: 161651244
+      Femalewarrior-sheet_26: -732231158
+      Femalewarrior-sheet_27: 184144792
+      Femalewarrior-sheet_28: 7049806
+      Femalewarrior-sheet_29: -1343352556
+      Femalewarrior-sheet_3: 1388799780
+      Femalewarrior-sheet_30: 356393601
+      Femalewarrior-sheet_31: -1696409147
+      Femalewarrior-sheet_32: 1039503089
+      Femalewarrior-sheet_33: -1096612282
+      Femalewarrior-sheet_34: -1505014273
+      Femalewarrior-sheet_35: 2054938856
+      Femalewarrior-sheet_36: 1041956367
+      Femalewarrior-sheet_37: -66220856
+      Femalewarrior-sheet_38: -841973158
+      Femalewarrior-sheet_39: -346407664
+      Femalewarrior-sheet_4: -18098254
+      Femalewarrior-sheet_40: 2054836844
+      Femalewarrior-sheet_41: -1898307237
+      Femalewarrior-sheet_42: -157872551
+      Femalewarrior-sheet_43: -1242656439
+      Femalewarrior-sheet_44: 1691635159
+      Femalewarrior-sheet_45: 867327308
+      Femalewarrior-sheet_46: 1530445476
+      Femalewarrior-sheet_47: 757426056
+      Femalewarrior-sheet_48: 1346619962
+      Femalewarrior-sheet_49: 1219210990
+      Femalewarrior-sheet_5: 1695146138
+      Femalewarrior-sheet_50: -1330302906
+      Femalewarrior-sheet_51: -1101097959
+      Femalewarrior-sheet_52: 127846948
+      Femalewarrior-sheet_53: 684890227
+      Femalewarrior-sheet_54: 292059341
+      Femalewarrior-sheet_55: 1265567471
+      Femalewarrior-sheet_56: 1001980200
+      Femalewarrior-sheet_57: -1178170189
+      Femalewarrior-sheet_58: 112245856
+      Femalewarrior-sheet_59: -1051955579
+      Femalewarrior-sheet_6: 1180157019
+      Femalewarrior-sheet_60: 187654699
+      Femalewarrior-sheet_61: 1782622568
+      Femalewarrior-sheet_62: -1759131260
+      Femalewarrior-sheet_63: 1317783862
+      Femalewarrior-sheet_64: -157217186
+      Femalewarrior-sheet_65: 1129109094
+      Femalewarrior-sheet_66: -990748607
+      Femalewarrior-sheet_67: 1185235288
+      Femalewarrior-sheet_68: 467580341
+      Femalewarrior-sheet_69: -443946038
+      Femalewarrior-sheet_7: 1360214571
+      Femalewarrior-sheet_70: -103029152
+      Femalewarrior-sheet_71: -1370689955
+      Femalewarrior-sheet_72: 556081026
+      Femalewarrior-sheet_73: -1510188582
+      Femalewarrior-sheet_74: -2043498441
+      Femalewarrior-sheet_75: 1026486765
+      Femalewarrior-sheet_76: -883919894
+      Femalewarrior-sheet_77: 575928483
+      Femalewarrior-sheet_78: 462212116
+      Femalewarrior-sheet_79: -1013393298
+      Femalewarrior-sheet_8: -693854875
+      Femalewarrior-sheet_80: 1956908215
+      Femalewarrior-sheet_81: 1009547364
+      Femalewarrior-sheet_82: 2029498711
+      Femalewarrior-sheet_83: 1886450772
+      Femalewarrior-sheet_84: -2093439360
+      Femalewarrior-sheet_85: 577266583
+      Femalewarrior-sheet_86: -733215331
+      Femalewarrior-sheet_87: 2020753862
+      Femalewarrior-sheet_88: -1624487534
+      Femalewarrior-sheet_89: -261071971
+      Femalewarrior-sheet_9: -4810513
+      Femalewarrior-sheet_90: -1581560001
+      Femalewarrior-sheet_91: -1978565899
+      Femalewarrior-sheet_92: -1355897021
+      Femalewarrior-sheet_93: 516790305
+      Femalewarrior-sheet_94: 1567865666
+      Femalewarrior-sheet_95: -1044700980
+      Femalewarrior-sheet_96: 586947619
+      Femalewarrior-sheet_97: -588394306
+      Femalewarrior-sheet_98: 1662589012
+      Femalewarrior-sheet_99: -1070585058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

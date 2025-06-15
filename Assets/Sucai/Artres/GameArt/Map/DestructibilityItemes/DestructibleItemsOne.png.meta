@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: bdb33a73a59959f49afdcc03b769e9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 292255349479754790
+    second: Destructible Objects Sprite Sheet_0
+  - first:
+      213: -932748130190725556
+    second: Destructible Objects Sprite Sheet_1
+  - first:
+      213: 1582425053698755773
+    second: Destructible Objects Sprite Sheet_2
+  - first:
+      213: 7959649193581861483
+    second: barrel_Idle
+  - first:
+      213: 6160363944353968629
+    second: barrel_Hit_1
+  - first:
+      213: 1799916522789509586
+    second: barrel_Hit_2
+  - first:
+      213: -1648602787692250297
+    second: barrel_Dead_1
+  - first:
+      213: -8067680791049444068
+    second: barrel_Dead_2
+  - first:
+      213: 2011381963528960105
+    second: barrel_Dead_3
+  - first:
+      213: -8107244543595167301
+    second: barrel_Dead_4
+  - first:
+      213: 432701033163590397
+    second: Destructible Objects Sprite Sheet_10
+  - first:
+      213: -3141877243300319094
+    second: Destructible Objects Sprite Sheet_11
+  - first:
+      213: -864388446597429157
+    second: Destructible Objects Sprite Sheet_12
+  - first:
+      213: 1371090950219775820
+    second: box_Idle
+  - first:
+      213: 4122332672582355637
+    second: box_Hit_1
+  - first:
+      213: -3537842046830857693
+    second: box_Hit_2
+  - first:
+      213: -5843987367183270612
+    second: box_Dead_1
+  - first:
+      213: 7849210222086974765
+    second: box_Dead_2
+  - first:
+      213: -7693891840564005866
+    second: box_Dead_3
+  - first:
+      213: -3462413336217375861
+    second: box_Dead_4
+  - first:
+      213: -6758789238592231902
+    second: Destructible Objects Sprite Sheet_20
+  - first:
+      213: -455544863007077555
+    second: Destructible Objects Sprite Sheet_21
+  - first:
+      213: -615592901155175987
+    second: Destructible Objects Sprite Sheet_22
+  - first:
+      213: 8394009037932400597
+    second: bottle_Idle
+  - first:
+      213: 4672279667404971150
+    second: bottle_Hit_1
+  - first:
+      213: -5170666060877672333
+    second: bottle_Hit_2
+  - first:
+      213: 921045809163319282
+    second: bottle_Dead_1
+  - first:
+      213: -632785219312142140
+    second: bottle_Dead_2
+  - first:
+      213: -1721650843703308319
+    second: bottle_Dead_3
+  - first:
+      213: -8983803684840685981
+    second: bottle_Dead_4
+  - first:
+      213: -3045468344751850004
+    second: Destructible Objects Sprite Sheet_30
+  - first:
+      213: -3242005725895249592
+    second: Destructible Objects Sprite Sheet_31
+  - first:
+      213: 5019928738718300370
+    second: Destructible Objects Sprite Sheet_32
+  - first:
+      213: -2825822775545003499
+    second: indicator_Idle
+  - first:
+      213: -7221143909529224454
+    second: indicator_Hit_1
+  - first:
+      213: -7020764519637218114
+    second: indicator_Hit_2
+  - first:
+      213: 7947795333966562039
+    second: indicator_Dead_1
+  - first:
+      213: -4024150420658532190
+    second: indicator_Dead_2
+  - first:
+      213: -1990159053091207395
+    second: indicator_Dead_3
+  - first:
+      213: -2746156789159905877
+    second: Destructible Objects Sprite Sheet_39
+  - first:
+      213: 1417646081996595011
+    second: Destructible Objects Sprite Sheet_40
+  - first:
+      213: 4163507373784577112
+    second: Destructible Objects Sprite Sheet_41
+  - first:
+      213: -3081563582286838631
+    second: signpost_Idle
+  - first:
+      213: -9154969212083399652
+    second: signpost_Hit_1
+  - first:
+      213: 4229474737810804166
+    second: signpost_Hit_2
+  - first:
+      213: -8595334514856485489
+    second: signpost_Dead_1
+  - first:
+      213: -1007707852845651125
+    second: signpost_Dead_2
+  - first:
+      213: -1243509563960051801
+    second: signpost_Dead_3
+  - first:
+      213: 5533500101061275615
+    second: Destructible Objects Sprite Sheet_48
+  - first:
+      213: 9036985989256870549
+    second: Destructible Objects Sprite Sheet_49
+  - first:
+      213: 5470495425578279035
+    second: Destructible Objects Sprite Sheet_50
+  - first:
+      213: -4243615266742608267
+    second: treasureBox_Idle
+  - first:
+      213: 4981649856395793942
+    second: treasureBox_Hit_1
+  - first:
+      213: 3131440849399946305
+    second: treasureBox_Hit_2
+  - first:
+      213: -2881063023264799871
+    second: treasureBox_Dead_1
+  - first:
+      213: 8669984699374520145
+    second: treasureBox_Dead_2
+  - first:
+      213: -1208394654508602111
+    second: Destructible Objects Sprite Sheet_56
+  - first:
+      213: 7303335959013401025
+    second: Destructible Objects Sprite Sheet_57
+  - first:
+      213: 7046527118174898345
+    second: Destructible Objects Sprite Sheet_58
+  - first:
+      213: -3252207758363198516
+    second: Destructible Objects Sprite Sheet_59
+  - first:
+      213: 7653697436246385554
+    second: Destructible Objects Sprite Sheet_60
+  - first:
+      213: -1115218574054285545
+    second: Destructible Objects Sprite Sheet_61
+  - first:
+      213: -8763667337187471418
+    second: Destructible Objects Sprite Sheet_62
+  - first:
+      213: 4451827123125000643
+    second: Destructible Objects Sprite Sheet_63
+  - first:
+      213: -7026925969855176658
+    second: Destructible Objects Sprite Sheet_64
+  - first:
+      213: 5498238296500043403
+    second: Destructible Objects Sprite Sheet_65
+  - first:
+      213: -1019784764540951239
+    second: Destructible Objects Sprite Sheet_66
+  - first:
+      213: 2997152352636118176
+    second: Destructible Objects Sprite Sheet_67
+  - first:
+      213: -7973440750577278013
+    second: Destructible Objects Sprite Sheet_68
+  - first:
+      213: 3481194551599036167
+    second: Destructible Objects Sprite Sheet_69
+  - first:
+      213: -1504648732277040490
+    second: Destructible Objects Sprite Sheet_70
+  - first:
+      213: -5701843593503726113
+    second: Destructible Objects Sprite Sheet_71
+  - first:
+      213: -1073619505099928984
+    second: Destructible Objects Sprite Sheet_72
+  - first:
+      213: 6517018653777121662
+    second: Destructible Objects Sprite Sheet_73
+  - first:
+      213: -5615861936111071051
+    second: Destructible Objects Sprite Sheet_74
+  - first:
+      213: 6833248316011903354
+    second: Destructible Objects Sprite Sheet_75
+  - first:
+      213: 5259879250665101053
+    second: Destructible Objects Sprite Sheet_76
+  - first:
+      213: 4987411031088071948
+    second: Destructible Objects Sprite Sheet_77
+  - first:
+      213: 7485742115905066554
+    second: Destructible Objects Sprite Sheet_78
+  - first:
+      213: -8554020869359237534
+    second: Destructible Objects Sprite Sheet_79
+  - first:
+      213: -7138394470310454198
+    second: Destructible Objects Sprite Sheet_80
+  - first:
+      213: 1911732572010292578
+    second: Destructible Objects Sprite Sheet_81
+  - first:
+      213: 1004239032145031262
+    second: Destructible Objects Sprite Sheet_82
+  - first:
+      213: 4728290025198345693
+    second: Destructible Objects Sprite Sheet_83
+  - first:
+      213: -8817267153456007720
+    second: Destructible Objects Sprite Sheet_84
+  - first:
+      213: -655058411200351546
+    second: Destructible Objects Sprite Sheet_85
+  - first:
+      213: 1886644568808114209
+    second: Destructible Objects Sprite Sheet_86
+  - first:
+      213: 1954262414506730966
+    second: Destructible Objects Sprite Sheet_87
+  - first:
+      213: -5935327274519614792
+    second: Destructible Objects Sprite Sheet_88
+  - first:
+      213: 3547181090872931466
+    second: Destructible Objects Sprite Sheet_89
+  - first:
+      213: 5818948292652218207
+    second: Destructible Objects Sprite Sheet_90
+  - first:
+      213: -9018680243654284414
+    second: Destructible Objects Sprite Sheet_91
+  - first:
+      213: 3166491754901328195
+    second: Destructible Objects Sprite Sheet_92
+  - first:
+      213: -1152137593246941152
+    second: Destructible Objects Sprite Sheet_93
+  - first:
+      213: 1427702706114185192
+    second: Destructible Objects Sprite Sheet_94
+  - first:
+      213: 2345391765530215971
+    second: Destructible Objects Sprite Sheet_95
+  - first:
+      213: -2974229488533837898
+    second: Destructible Objects Sprite Sheet_96
+  - first:
+      213: -9135551048280918630
+    second: Destructible Objects Sprite Sheet_97
+  - first:
+      213: 4650843862663958768
+    second: Destructible Objects Sprite Sheet_98
+  - first:
+      213: 6472268952960056195
+    second: Destructible Objects Sprite Sheet_99
+  - first:
+      213: 3845290251565042635
+    second: Destructible Objects Sprite Sheet_100
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barrel_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5256684, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adb2005ca567e60800000000000000
+      internalID: 7959649193581861483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1b75e4e520e7550800000000000000
+      internalID: 6160363944353968629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d999368a869af810800000000000000
+      internalID: 1799916522789509586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b72efcf7cfe19e0800000000000000
+      internalID: -1648602787692250297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c156140a017d90090800000000000000
+      internalID: -8067680791049444068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96875c33d3dd9eb10800000000000000
+      internalID: 2011381963528960105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 641
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.52, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb149c7aa084d7f80800000000000000
+      internalID: -8107244543595167301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f3a9274f7170310800000000000000
+      internalID: 1371090950219775820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba024389b7753930800000000000000
+      internalID: 4122332672582355637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322b437176f07eec0800000000000000
+      internalID: -3537842046830857693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dbb2bc37cf5eea0800000000000000
+      internalID: -5843987367183270612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2debde2c1ffdec60800000000000000
+      internalID: 7849210222086974765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614f7ee822ec93590800000000000000
+      internalID: -7693891840564005866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: box_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 513
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.54, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b20355a6903ffc0800000000000000
+      internalID: -3462413336217375861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df01632fb28d7470800000000000000
+      internalID: 8394009037932400597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c14fa4a9547d040800000000000000
+      internalID: 4672279667404971150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d73dec9a1e38b0800000000000000
+      internalID: -5170666060877672333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ba05984638cc00800000000000000
+      internalID: 921045809163319282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c838c71235e737f0800000000000000
+      internalID: -632785219312142140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef00d9eda77b18e0800000000000000
+      internalID: -1721650843703308319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottle_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb939952e135380800000000000000
+      internalID: -8983803684840685981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5128e615829a8c8d0800000000000000
+      internalID: -2825822775545003499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaf880afd759cb90800000000000000
+      internalID: -7221143909529224454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc8b53fddb319e90800000000000000
+      internalID: -7020764519637218114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2859c3fbd3c4e60800000000000000
+      internalID: 7947795333966562039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d8e563885728c0800000000000000
+      internalID: -4024150420658532190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicator_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.545, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1788f1b2e88164e0800000000000000
+      internalID: -1990159053091207395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994430daf361c35d0800000000000000
+      internalID: -3081563582286838631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149128b10403f080800000000000000
+      internalID: -9154969212083399652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd83b58ddc12ba30800000000000000
+      internalID: 4229474737810804166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d135c7ccc37b880800000000000000
+      internalID: -8595334514856485489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b63c10c07e302f0800000000000000
+      internalID: -1007707852845651125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signpost_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.53, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73c55d3aa2ebee0800000000000000
+      internalID: -1243509563960051801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_Idle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.515, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed1660666ab15c0800000000000000
+      internalID: -4243615266742608267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.515, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d8d58620622540800000000000000
+      internalID: 4981649856395793942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.515, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c91a78cdc157b20800000000000000
+      internalID: 3131440849399946305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.515, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e9c2e1786408d0800000000000000
+      internalID: -2881063023264799871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treasureBox_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 63
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5155, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1574a460629f15870800000000000000
+      internalID: 8669984699374520145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      barrel_Dead_1: -1648602787692250297
+      barrel_Dead_2: -8067680791049444068
+      barrel_Dead_3: 2011381963528960105
+      barrel_Dead_4: -8107244543595167301
+      barrel_Hit_1: 6160363944353968629
+      barrel_Hit_2: 1799916522789509586
+      barrel_Idle: 7959649193581861483
+      bottle_Dead_1: 921045809163319282
+      bottle_Dead_2: -632785219312142140
+      bottle_Dead_3: -1721650843703308319
+      bottle_Dead_4: -8983803684840685981
+      bottle_Hit_1: 4672279667404971150
+      bottle_Hit_2: -5170666060877672333
+      bottle_Idle: 8394009037932400597
+      box_Dead_1: -5843987367183270612
+      box_Dead_2: 7849210222086974765
+      box_Dead_3: -7693891840564005866
+      box_Dead_4: -3462413336217375861
+      box_Hit_1: 4122332672582355637
+      box_Hit_2: -3537842046830857693
+      box_Idle: 1371090950219775820
+      indicator_Dead_1: 7947795333966562039
+      indicator_Dead_2: -4024150420658532190
+      indicator_Dead_3: -1990159053091207395
+      indicator_Hit_1: -7221143909529224454
+      indicator_Hit_2: -7020764519637218114
+      indicator_Idle: -2825822775545003499
+      signpost_Dead_1: -8595334514856485489
+      signpost_Dead_2: -1007707852845651125
+      signpost_Dead_3: -1243509563960051801
+      signpost_Hit_1: -9154969212083399652
+      signpost_Hit_2: 4229474737810804166
+      signpost_Idle: -3081563582286838631
+      treasureBox_Dead_1: -2881063023264799871
+      treasureBox_Dead_2: 8669984699374520145
+      treasureBox_Hit_1: 4981649856395793942
+      treasureBox_Hit_2: 3131440849399946305
+      treasureBox_Idle: -4243615266742608267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

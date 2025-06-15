@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC_Barkeep
+  m_Controller: {fileID: 9100000, guid: 41a98b1201768e44dba91b405bed982a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 778be44d1b7e75343afc8256260bc308, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8381dfadaf77e6242b1659cc9da88658, type: 2}

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\enemy\\enemys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\enemy\\enemys2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemys2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\player\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|d:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\uis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\uis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|d:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\overall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\overall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\enemy\\enemys1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy\\enemys1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\harm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA989780-525D-09F6-6FF7-50EA930810BC}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\harm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\assets\\script\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Figure.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Figure.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Figure.cs",
+              "RelativeToolTip": "Assets\\Script\\Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:18:59.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Players.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Player\\Players.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Players.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Player\\Players.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Players.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAG4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:11:04.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIs.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\UIs.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UIs.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\UIs.cs",
+              "RelativeToolTip": "Assets\\Script\\UIs.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:07:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemys2.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemys2.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys2.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemys2.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAQwFQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:43:54.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Boss.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Boss.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Boss.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:33:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Overall.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Overall.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Overall.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Overall.cs",
+              "RelativeToolTip": "Assets\\Script\\Overall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:10:47.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemys.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemys.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemys.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvx8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:38:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemys1.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemy\\Enemys1.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Enemy\\Enemys1.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemy\\Enemys1.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:38:53.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Harm.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Harm.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Harm.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Harm.cs",
+              "RelativeToolTip": "Assets\\Script\\Harm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:36:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Players.cs",
+              "DocumentMoniker": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Players.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Players.cs",
+              "ToolTip": "D:\\\u767E\u5EA6\u7F51\u76D8\\2d\u5192\u9669(3\u5173)\\Assets\\Script\\Players.cs",
+              "RelativeToolTip": "Assets\\Script\\Players.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvzYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:30:45.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

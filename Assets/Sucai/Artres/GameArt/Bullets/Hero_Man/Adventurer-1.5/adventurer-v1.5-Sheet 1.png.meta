@@ -1,0 +1,2891 @@
+fileFormatVersion: 2
+guid: 0280fd4d72b4b5a4e95083cd6cb2c15a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2249390867900666230
+    second: Heroman_Idle_Normal_0
+  - first:
+      213: -6810936908468210742
+    second: Heroman_Idle_Normal_1
+  - first:
+      213: -3656882265896584081
+    second: Heroman_Idle_Normal_2
+  - first:
+      213: -4756804605495761807
+    second: Heroman_Idle_Normal_3
+  - first:
+      213: 8705081874691334408
+    second: Heroman_Crouch_Normal_0
+  - first:
+      213: 2005903673157930123
+    second: Heroman_Crouch_Normal_1
+  - first:
+      213: -6626308640841822170
+    second: Heroman_Crouch_Normal_2
+  - first:
+      213: -5472164438796931647
+    second: Heroman_Crouch_Normal_3
+  - first:
+      213: -8363977251887214161
+    second: Heroman_Run_Normal_0
+  - first:
+      213: -4047020594590947916
+    second: Heroman_Run_Normal_1
+  - first:
+      213: 1737711316561136565
+    second: Heroman_Run_Normal_2
+  - first:
+      213: 4152965243905486259
+    second: Heroman_Run_Normal_3
+  - first:
+      213: 7599196623867784676
+    second: Heroman_Run_Normal_4
+  - first:
+      213: 3188949069952711116
+    second: Heroman_Run_Normal_5
+  - first:
+      213: -771575840889569325
+    second: Heromen_Land_Normal_0
+  - first:
+      213: 8039819784487542607
+    second: Heromen_Land_Normal_1
+  - first:
+      213: 869052100139096778
+    second: Heroman_Jump_Normal_0
+  - first:
+      213: 7064641125061740270
+    second: Heroman_Jump_Normal_1
+  - first:
+      213: 8882121010474896341
+    second: Heroman_Roll_Normal_0
+  - first:
+      213: 4950905817071921519
+    second: Heroman_Roll_Normal_1
+  - first:
+      213: -6711423543575888635
+    second: Heroman_Roll_Normal_2
+  - first:
+      213: 7679378266193965884
+    second: Heroman_Roll_Normal_3
+  - first:
+      213: 2410645253506148271
+    second: Heroman_Fall_Noraml_0
+  - first:
+      213: -521292171797957391
+    second: Heroman_Fall_Noraml_1
+  - first:
+      213: -9047666635103241022
+    second: Heroman_Slide_Normal_0
+  - first:
+      213: -8548435237145373934
+    second: Heroman_Slide_Normal_1
+  - first:
+      213: 29188396887750711
+    second: Heroman_Slide_Normal_2
+  - first:
+      213: 4280146782269640522
+    second: Heroman_Slide_Normal_3
+  - first:
+      213: -3720194359382404272
+    second: Heroman_Slide_Normal_4
+  - first:
+      213: -5492462697258949385
+    second: Heroman_LedgeGrab_Normal_0
+  - first:
+      213: 6610443464169594996
+    second: Heroman_LedgeGrab_Normal_1
+  - first:
+      213: 5927329896002877560
+    second: Heroman_LedgeGrab_Normal_2
+  - first:
+      213: -8616241041274828374
+    second: Heroman_LedgeGrab_Normal_3
+  - first:
+      213: 4119825987398921677
+    second: Heroman_LedgeClimb_Normal_0
+  - first:
+      213: -2049638754201945957
+    second: Heroman_LedgeClimb_Normal_0
+  - first:
+      213: -5226364690237375928
+    second: Heroman_LedgeClimb_Normal_1
+  - first:
+      213: -4065564732506113131
+    second: Heroman_LedgeClimb_Normal_2
+  - first:
+      213: 9131496273734436354
+    second: Heroman_LedgeClimb_Normal_3
+  - first:
+      213: -2785383283741033205
+    second: Heroman_Idle_Sword_0
+  - first:
+      213: 9005361352566125132
+    second: Heroman_Idle_Sword_1
+  - first:
+      213: -8269158568211723117
+    second: Heroman_Idle_Sword_2
+  - first:
+      213: 6654461072602094836
+    second: Heroman_Idle_Sword_3
+  - first:
+      213: -6148190385784254836
+    second: Heroman_Attack1_Sword_0
+  - first:
+      213: 9002647805045299753
+    second: Heroman_Attack1_Sword_1
+  - first:
+      213: -4608430904005959074
+    second: Heroman_Attack1_Sword_2
+  - first:
+      213: -5125274844163802347
+    second: Heroman_Attack1_Sword_3
+  - first:
+      213: -3847777481520783310
+    second: Heroman_Attack1_Sword_4
+  - first:
+      213: -226271850172770475
+    second: Heroman_Attack2_Sword_0
+  - first:
+      213: -5338702580685321773
+    second: Heroman_Attack2_Sword_1
+  - first:
+      213: 5521459516887351023
+    second: Heroman_Attack2_Sword_2
+  - first:
+      213: -6809572800855146426
+    second: Heroman_Attack2_Sword_3
+  - first:
+      213: 1892909380160607293
+    second: Heroman_Attack2_Sword_4
+  - first:
+      213: -3147236989003708167
+    second: Heroman_Attack2_Sword_5
+  - first:
+      213: -5116309309205666002
+    second: Heroman_Attack3_Sword_0
+  - first:
+      213: -8269117995166243052
+    second: Heroman_Attack3_Sword_1
+  - first:
+      213: 9046326191653876066
+    second: Heroman_Attack3_Sword_2
+  - first:
+      213: -2974115173026979637
+    second: Heroman_Attack3_Sword_3
+  - first:
+      213: -6163176453517472089
+    second: Heroman_Attack3_Sword_4
+  - first:
+      213: -5977917854171008882
+    second: Heroman_Attack3_Sword_5
+  - first:
+      213: 3628332631948869003
+    second: Heroman_Hurt_Sword_0
+  - first:
+      213: 4697040979167753270
+    second: Heroman_Hurt_Sword_1
+  - first:
+      213: 5166894022450947276
+    second: Heroman_Hurt_Sword_2
+  - first:
+      213: 1951800405831118633
+    second: Heroman_Death_Sword_0
+  - first:
+      213: -1498995557707591066
+    second: Heroman_Death_Sword_1
+  - first:
+      213: 6266708926020656379
+    second: Heroman_Death_Sword_2
+  - first:
+      213: -8504848687448339768
+    second: Heroman_Death_Sword_3
+  - first:
+      213: -3815855556581699581
+    second: Heroman_Death_Sword_4
+  - first:
+      213: -2884567516666475832
+    second: Heroman_Death_Sword_5
+  - first:
+      213: 5179052721559552752
+    second: Heroman_Death_Sword_6
+  - first:
+      213: 2962002637137894812
+    second: Heroman_Draw_Sword_0
+  - first:
+      213: 7214070435301343923
+    second: Heroman_Draw_Sword_1
+  - first:
+      213: -7602841339318685916
+    second: Heroman_Draw_Sword_2
+  - first:
+      213: -1062436021084943530
+    second: Heroman_Draw_Sword_3
+  - first:
+      213: -7756766597759987664
+    second: Heroman_Shte_Sword_0
+  - first:
+      213: -3017650642332355519
+    second: Heroman_Shte_Sword_1
+  - first:
+      213: -519591348083419735
+    second: Heroman_Shte_Sword_2
+  - first:
+      213: 5199818955730409211
+    second: Heroman_Shte_Sword_3
+  - first:
+      213: 7332955455384081058
+    second: Heroman_LedgeJump_Sword_0
+  - first:
+      213: -521650668286428709
+    second: Heroman_LedgeJump_Sword_1
+  - first:
+      213: 4784375777891694593
+    second: Heroman_WallSlide_Sword_0
+  - first:
+      213: -7355925808311551874
+    second: Heroman_WallSlide_Sword_1
+  - first:
+      213: 608977056396643321
+    second: Heroman_WallClimb_Sword_0
+  - first:
+      213: -2509509169535514398
+    second: Heroman_WallClimb_Sword_1
+  - first:
+      213: 2269723294683765453
+    second: Heroman_WallClimb_Sword_2
+  - first:
+      213: 8982262904572519384
+    second: Heroman_WallClimb_Sword_3
+  - first:
+      213: -4842291103888391283
+    second: Heroman_Dash_Sword_0
+  - first:
+      213: 2108782371729391459
+    second: Heroman_Dash_Sword_1
+  - first:
+      213: -1200428593683028743
+    second: Heroman_Dash_Sword_2
+  - first:
+      213: 5497002395721573145
+    second: Heroman_Dash_Sword_3
+  - first:
+      213: -489896559774131299
+    second: Heroman_DashLoop_Sword_0
+  - first:
+      213: 7748984321689797686
+    second: Heroman_DashLoop_Sword_1
+  - first:
+      213: -3664094068054873306
+    second: Heroman_DashLoop_Sword_2
+  - first:
+      213: -408108102664982327
+    second: Heroman_DashLoop_Sword_3
+  - first:
+      213: -5219389151730517314
+    second: Heroman_Items_Sword_0
+  - first:
+      213: 3227260205453069112
+    second: Heroman_Items_Sword_1
+  - first:
+      213: 6387220540778479197
+    second: Heroman_Items_Sword_2
+  - first:
+      213: -7613519175954741754
+    second: Heroman_AirAttack1_Sword_0
+  - first:
+      213: -9167914273764865910
+    second: Heroman_AirAttack1_Sword_1
+  - first:
+      213: -1735812858274140746
+    second: Heroman_AirAttack1_Sword_2
+  - first:
+      213: 674029960351711847
+    second: Heroman_AirAttack1_Sword_3
+  - first:
+      213: -5680961498018457314
+    second: Heroman_AirAttack2_Sword_0
+  - first:
+      213: 8383151311899770086
+    second: Heroman_AirAttack2_Sword_1
+  - first:
+      213: -2704456314009899346
+    second: Heroman_AirAttack2_Sword_2
+  - first:
+      213: 4833483282373145515
+    second: Heroman_AirAttack3Loop_Sword_0
+  - first:
+      213: 5817883238571992486
+    second: Heroman_AirAttack3Loop_Sword_1
+  - first:
+      213: 3538342698204380499
+    second: Heroman_AirAttack3Loop_Sword_2
+  - first:
+      213: -5362690591258888914
+    second: Empty
+  - first:
+      213: 49619071560069421
+    second: Heroman_AirAttack3_Sword_0
+  - first:
+      213: 5220961454080491535
+    second: adventurer-v1.5-Sheet 1_108
+  - first:
+      213: 774170919555839947
+    second: adventurer-v1.5-Sheet 1_109
+  - first:
+      213: 7943260783099233770
+    second: Heroman_AirAttack3_Sword_1
+  - first:
+      213: 3099134017028203612
+    second: adventurer-v1.5-Sheet 1_111
+  - first:
+      213: 6836232371254994866
+    second: Heroman_AirAttack3_Sword_2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroman_Idle_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 556
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6711a3a9311773f10800000000000000
+      internalID: 2249390867900666230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 556
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3b727b7f0ba71a0800000000000000
+      internalID: -6810936908468210742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 556
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfec344f4204dc0800000000000000
+      internalID: -3656882265896584081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 556
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ab77f96f6cfdb0800000000000000
+      internalID: -4756804605495761807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Crouch_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 556
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012ba1f7d9aec870800000000000000
+      internalID: 8705081874691334408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Crouch_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 557
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cca3453c666db10800000000000000
+      internalID: 2005903673157930123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Crouch_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 556
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620958a166f9a04a0800000000000000
+      internalID: -6626308640841822170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Crouch_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 519
+        width: 17
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdebf88f67fe04b0800000000000000
+      internalID: -5472164438796931647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 519
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa190dfe00f2deb80800000000000000
+      internalID: -8363977251887214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 519
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b567b4163816d7c0800000000000000
+      internalID: -4047020594590947916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 519
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb8dc15c379d1810800000000000000
+      internalID: 1737711316561136565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 519
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda78fc2eb42a930800000000000000
+      internalID: 4152965243905486259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 519
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edacff2115c57960800000000000000
+      internalID: 7599196623867784676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Run_Normal_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 519
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f759884c614c20800000000000000
+      internalID: 3188949069952711116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heromen_Land_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 482
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff0865cdfca45f0800000000000000
+      internalID: -771575840889569325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heromen_Land_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 482
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f99884f7d239f60800000000000000
+      internalID: 8039819784487542607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Jump_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 484
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1918d74e7f0c00800000000000000
+      internalID: 869052100139096778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Jump_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 490
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6cbe45ca5aa0260800000000000000
+      internalID: 7064641125061740270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Roll_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 490
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbc361eff1a34b70800000000000000
+      internalID: 8882121010474896341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Roll_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 491
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69acfe0c9625b440800000000000000
+      internalID: 4950905817071921519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Roll_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 487
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d37f388db3cd2a0800000000000000
+      internalID: -6711423543575888635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Roll_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 451
+        width: 26
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33b85498d1a29a60800000000000000
+      internalID: 7679378266193965884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Fall_Noraml_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 449
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa727bef515547120800000000000000
+      internalID: 2410645253506148271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Fall_Noraml_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 449
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47acb188ff3c8f0800000000000000
+      internalID: -521292171797957391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Slide_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 445
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc7488c12b307280800000000000000
+      internalID: -9047666635103241022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Slide_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 445
+        width: 34
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2139480817bdd5980800000000000000
+      internalID: -8548435237145373934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Slide_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 445
+        width: 34
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738be0c31b2b76000800000000000000
+      internalID: 29188396887750711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Slide_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 445
+        width: 30
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f86bf32d2266b30800000000000000
+      internalID: 4280146782269640522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Slide_Normal_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 408
+        width: 23
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539999c0f63f5cc0800000000000000
+      internalID: -3720194359382404272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeGrab_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 407
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4ebc3f64ad6c3b0800000000000000
+      internalID: -5492462697258949385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeGrab_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 407
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a1a99e430dbb50800000000000000
+      internalID: 6610443464169594996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeGrab_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 407
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878fdc5d22b124250800000000000000
+      internalID: 5927329896002877560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeGrab_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 407
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa90cab7c66fc6880800000000000000
+      internalID: -8616241041274828374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeClimb_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 409
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde55368ef8c2930800000000000000
+      internalID: 4119825987398921677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeClimb_Normal_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 411
+        width: 15
+        height: 26
+      alignment: 9
+      pivot: {x: 0.500002, y: -0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b983be999683e83e0800000000000000
+      internalID: -7785251623992844508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeClimb_Normal_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 375
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ab1c331093877b0800000000000000
+      internalID: -5226364690237375928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeClimb_Normal_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 377
+        width: 14
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfd938a663497c0800000000000000
+      internalID: -4065564732506113131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeClimb_Normal_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 377
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: -0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068ebfea7799be70800000000000000
+      internalID: 9131496273734436354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dfd4939a45859d0800000000000000
+      internalID: -2785383283741033205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 371
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c423cbd007879fc70800000000000000
+      internalID: 9005361352566125132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 371
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ccc56181c0e3d80800000000000000
+      internalID: -8269158568211723117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Idle_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 371
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdc14b615695c50800000000000000
+      internalID: 6654461072602094836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack1_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 334
+        width: 27
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8bdb2b6d3daaa0800000000000000
+      internalID: -6148190385784254836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack1_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 334
+        width: 25
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92adca90b74dfec70800000000000000
+      internalID: 9002647805045299753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack1_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 334
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52eac262809b00c0800000000000000
+      internalID: -4608430904005959074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack1_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 334
+        width: 27
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bfe512fad5fd8b0800000000000000
+      internalID: -5125274844163802347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack1_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 334
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e43754c2f99ac0800000000000000
+      internalID: -3847777481520783310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 334
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55718cb73fe1cdcf0800000000000000
+      internalID: -226271850172770475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 334
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94accd94e19e5b0800000000000000
+      internalID: -5338702580685321773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 297
+        width: 20
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee35c93d2a20ac40800000000000000
+      internalID: 5521459516887351023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 297
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400ed4cd998f71a0800000000000000
+      internalID: -6809572800855146426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 297
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d345a7c5d07f44a10800000000000000
+      internalID: 1892909380160607293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack2_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 297
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c67e12a4c254d0800000000000000
+      internalID: -3147236989003708167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 297
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27a5c76ac73ff8b0800000000000000
+      internalID: -5116309309205666002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 297
+        width: 20
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417635cbef03e3d80800000000000000
+      internalID: -8269117995166243052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 297
+        width: 48
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26177d7edb10b8d70800000000000000
+      internalID: 9046326191653876066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 260
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a0a6f102d9b6d0800000000000000
+      internalID: -2974115173026979637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0a006baff77aa0800000000000000
+      internalID: -6163176453517472089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Attack3_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 260
+        width: 34
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80fbad426b2a0da0800000000000000
+      internalID: -5977917854171008882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Hurt_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d35461e4d6a5230800000000000000
+      internalID: 3628332631948869003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Hurt_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 260
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343fb272ed3f2140800000000000000
+      internalID: 4697040979167753270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Hurt_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 260
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42740fcbe74b740800000000000000
+      internalID: 5166894022450947276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 260
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe606c020361b10800000000000000
+      internalID: 1951800405831118633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 223
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66253f67b7f723be0800000000000000
+      internalID: -1498995557707591066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc1b36d092d7f650800000000000000
+      internalID: 6266708926020656379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 223
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac13ced25b8f980800000000000000
+      internalID: -8504848687448339768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3005fbba69b5b0bc0800000000000000
+      internalID: -3815855556581699581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 223
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac67e6025f7f7d0800000000000000
+      internalID: -2884567516666475832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Death_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2c39da201bfd740800000000000000
+      internalID: 5179052721559552752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Draw_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddf5284b52b1920800000000000000
+      internalID: 2962002637137894812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Draw_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 186
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c8c0d6d68d1460800000000000000
+      internalID: 7214070435301343923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Draw_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 186
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f214e55184d7690800000000000000
+      internalID: -7602841339318685916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Draw_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b07ae51187141f0800000000000000
+      internalID: -1062436021084943530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Shte_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 186
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03096ee50ed6a5490800000000000000
+      internalID: -7756766597759987664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Shte_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 186
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fc8f9ab62f16d0800000000000000
+      internalID: -3017650642332355519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Shte_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 186
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51f1dfb6a0ac8f0800000000000000
+      internalID: -519591348083419735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Shte_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 186
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf657a85ac7792840800000000000000
+      internalID: 5199818955730409211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeJump_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 149
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a25eef8224e3c560800000000000000
+      internalID: 7332955455384081058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_LedgeJump_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 149
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd931f32b79b2c8f0800000000000000
+      internalID: -521650668286428709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallSlide_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 151
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b739db64856240800000000000000
+      internalID: 4784375777891694593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallSlide_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 151
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78367163708ae990800000000000000
+      internalID: -7355925808311551874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallClimb_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 151
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb82e20865837800800000000000000
+      internalID: 608977056396643321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallClimb_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 153
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8004dc4be6c2dd0800000000000000
+      internalID: -2509509169535514398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallClimb_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 151
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1e0e9f4daf7f10800000000000000
+      internalID: 2269723294683765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_WallClimb_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a63a858867ac70800000000000000
+      internalID: 8982262904572519384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Dash_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83c2b585e9bcccb0800000000000000
+      internalID: -4842291103888391283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Dash_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f398fe466e34d10800000000000000
+      internalID: 2108782371729391459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Dash_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 112
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42d4fdd88375fe0800000000000000
+      internalID: -1200428593683028743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Dash_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 112
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913a476fd86494c40800000000000000
+      internalID: 5497002395721573145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_DashLoop_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1af9aca98339f0800000000000000
+      internalID: -489896559774131299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_DashLoop_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 112
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63444684f2ce98b60800000000000000
+      internalID: 7748984321689797686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_DashLoop_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b29f9bbd5862dc0800000000000000
+      internalID: -3664094068054873306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_DashLoop_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f1b6c7db165af0800000000000000
+      internalID: -408108102664982327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Items_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 75
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba339258310197b0800000000000000
+      internalID: -5219389151730517314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Items_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 75
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bc8cfde0889cc20800000000000000
+      internalID: 3227260205453069112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_Items_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 75
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efd2bad37f3a850800000000000000
+      internalID: 6387220540778479197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack1_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 76
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606c79ac5a8575690800000000000000
+      internalID: -7613519175954741754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack1_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 77
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88030daa8605c080800000000000000
+      internalID: -9167914273764865910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack1_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 41
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda302f66729e7e0800000000000000
+      internalID: -1735812858274140746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack1_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7620cb28da2aa5900800000000000000
+      internalID: 674029960351711847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack2_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 39
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1950f7dd9b2921b0800000000000000
+      internalID: -5680961498018457314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack2_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 40
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb22cc3bfe65470800000000000000
+      internalID: 8383151311899770086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack2_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 41
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaea0ecaf47d77ad0800000000000000
+      internalID: -2704456314009899346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3Loop_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 42
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f3a9bf6bf31340800000000000000
+      internalID: 4833483282373145515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3Loop_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 41
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a568c32bf54db050800000000000000
+      internalID: 5817883238571992486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3Loop_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db114efe7ba1130800000000000000
+      internalID: 3538342698204380499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 51
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5176806, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213c6e584840b000800000000000000
+      internalID: 49619071560069421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5194198, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5cbe6d8912c3e60800000000000000
+      internalID: 7943260783099233770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroman_AirAttack3_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 58
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5138687, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b72eaa2f1d2fde50800000000000000
+      internalID: 6836232371254994866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {instanceID: 0}
+      name: _Emission
+    nameFileIdTable:
+      Heroman_AirAttack1_Sword_0: -7613519175954741754
+      Heroman_AirAttack1_Sword_1: -9167914273764865910
+      Heroman_AirAttack1_Sword_2: -1735812858274140746
+      Heroman_AirAttack1_Sword_3: 674029960351711847
+      Heroman_AirAttack2_Sword_0: -5680961498018457314
+      Heroman_AirAttack2_Sword_1: 8383151311899770086
+      Heroman_AirAttack2_Sword_2: -2704456314009899346
+      Heroman_AirAttack3Loop_Sword_0: 4833483282373145515
+      Heroman_AirAttack3Loop_Sword_1: 5817883238571992486
+      Heroman_AirAttack3Loop_Sword_2: 3538342698204380499
+      Heroman_AirAttack3_Sword_0: 49619071560069421
+      Heroman_AirAttack3_Sword_1: 7943260783099233770
+      Heroman_AirAttack3_Sword_2: 6836232371254994866
+      Heroman_Attack1_Sword_0: -6148190385784254836
+      Heroman_Attack1_Sword_1: 9002647805045299753
+      Heroman_Attack1_Sword_2: -4608430904005959074
+      Heroman_Attack1_Sword_3: -5125274844163802347
+      Heroman_Attack1_Sword_4: -3847777481520783310
+      Heroman_Attack2_Sword_0: -226271850172770475
+      Heroman_Attack2_Sword_1: -5338702580685321773
+      Heroman_Attack2_Sword_2: 5521459516887351023
+      Heroman_Attack2_Sword_3: -6809572800855146426
+      Heroman_Attack2_Sword_4: 1892909380160607293
+      Heroman_Attack2_Sword_5: -3147236989003708167
+      Heroman_Attack3_Sword_0: -5116309309205666002
+      Heroman_Attack3_Sword_1: -8269117995166243052
+      Heroman_Attack3_Sword_2: 9046326191653876066
+      Heroman_Attack3_Sword_3: -2974115173026979637
+      Heroman_Attack3_Sword_4: -6163176453517472089
+      Heroman_Attack3_Sword_5: -5977917854171008882
+      Heroman_Crouch_Normal_0: 8705081874691334408
+      Heroman_Crouch_Normal_1: 2005903673157930123
+      Heroman_Crouch_Normal_2: -6626308640841822170
+      Heroman_Crouch_Normal_3: -5472164438796931647
+      Heroman_DashLoop_Sword_0: -489896559774131299
+      Heroman_DashLoop_Sword_1: 7748984321689797686
+      Heroman_DashLoop_Sword_2: -3664094068054873306
+      Heroman_DashLoop_Sword_3: -408108102664982327
+      Heroman_Dash_Sword_0: -4842291103888391283
+      Heroman_Dash_Sword_1: 2108782371729391459
+      Heroman_Dash_Sword_2: -1200428593683028743
+      Heroman_Dash_Sword_3: 5497002395721573145
+      Heroman_Death_Sword_0: 1951800405831118633
+      Heroman_Death_Sword_1: -1498995557707591066
+      Heroman_Death_Sword_2: 6266708926020656379
+      Heroman_Death_Sword_3: -8504848687448339768
+      Heroman_Death_Sword_4: -3815855556581699581
+      Heroman_Death_Sword_5: -2884567516666475832
+      Heroman_Death_Sword_6: 5179052721559552752
+      Heroman_Draw_Sword_0: 2962002637137894812
+      Heroman_Draw_Sword_1: 7214070435301343923
+      Heroman_Draw_Sword_2: -7602841339318685916
+      Heroman_Draw_Sword_3: -1062436021084943530
+      Heroman_Fall_Noraml_0: 2410645253506148271
+      Heroman_Fall_Noraml_1: -521292171797957391
+      Heroman_Hurt_Sword_0: 3628332631948869003
+      Heroman_Hurt_Sword_1: 4697040979167753270
+      Heroman_Hurt_Sword_2: 5166894022450947276
+      Heroman_Idle_Normal_0: 2249390867900666230
+      Heroman_Idle_Normal_1: -6810936908468210742
+      Heroman_Idle_Normal_2: -3656882265896584081
+      Heroman_Idle_Normal_3: -4756804605495761807
+      Heroman_Idle_Sword_0: -2785383283741033205
+      Heroman_Idle_Sword_1: 9005361352566125132
+      Heroman_Idle_Sword_2: -8269158568211723117
+      Heroman_Idle_Sword_3: 6654461072602094836
+      Heroman_Items_Sword_0: -5219389151730517314
+      Heroman_Items_Sword_1: 3227260205453069112
+      Heroman_Items_Sword_2: 6387220540778479197
+      Heroman_Jump_Normal_0: 869052100139096778
+      Heroman_Jump_Normal_1: 7064641125061740270
+      Heroman_LedgeClimb_Normal_0: 4119825987398921677
+      Heroman_LedgeClimb_Normal_1: -5226364690237375928
+      Heroman_LedgeClimb_Normal_2: -4065564732506113131
+      Heroman_LedgeClimb_Normal_3: 9131496273734436354
+      Heroman_LedgeGrab_Normal_0: -5492462697258949385
+      Heroman_LedgeGrab_Normal_1: 6610443464169594996
+      Heroman_LedgeGrab_Normal_2: 5927329896002877560
+      Heroman_LedgeGrab_Normal_3: -8616241041274828374
+      Heroman_LedgeJump_Sword_0: 7332955455384081058
+      Heroman_LedgeJump_Sword_1: -521650668286428709
+      Heroman_Roll_Normal_0: 8882121010474896341
+      Heroman_Roll_Normal_1: 4950905817071921519
+      Heroman_Roll_Normal_2: -6711423543575888635
+      Heroman_Roll_Normal_3: 7679378266193965884
+      Heroman_Run_Normal_0: -8363977251887214161
+      Heroman_Run_Normal_1: -4047020594590947916
+      Heroman_Run_Normal_2: 1737711316561136565
+      Heroman_Run_Normal_3: 4152965243905486259
+      Heroman_Run_Normal_4: 7599196623867784676
+      Heroman_Run_Normal_5: 3188949069952711116
+      Heroman_Shte_Sword_0: -7756766597759987664
+      Heroman_Shte_Sword_1: -3017650642332355519
+      Heroman_Shte_Sword_2: -519591348083419735
+      Heroman_Shte_Sword_3: 5199818955730409211
+      Heroman_Slide_Normal_0: -9047666635103241022
+      Heroman_Slide_Normal_1: -8548435237145373934
+      Heroman_Slide_Normal_2: 29188396887750711
+      Heroman_Slide_Normal_3: 4280146782269640522
+      Heroman_Slide_Normal_4: -3720194359382404272
+      Heroman_WallClimb_Sword_0: 608977056396643321
+      Heroman_WallClimb_Sword_1: -2509509169535514398
+      Heroman_WallClimb_Sword_2: 2269723294683765453
+      Heroman_WallClimb_Sword_3: 8982262904572519384
+      Heroman_WallSlide_Sword_0: 4784375777891694593
+      Heroman_WallSlide_Sword_1: -7355925808311551874
+      Heromen_Land_Normal_0: -771575840889569325
+      Heromen_Land_Normal_1: 8039819784487542607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
